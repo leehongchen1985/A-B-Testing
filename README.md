@@ -17,3 +17,11 @@ The following are needed for this projects
 - numpy
 - random
 - matplotlib
+
+# Contents
+
+There are three parts of this project:
+
+1. Probability
+2. A/B Test
+3. Regression
